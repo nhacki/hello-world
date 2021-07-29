@@ -1,5 +1,5 @@
 # hello-world
-First repo
+First repository
 
 Hi peeps!
 My first repo and first edit on GitHub, the code hosting platform for version control and collaboration.
